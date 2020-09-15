@@ -1,0 +1,6 @@
+# Fuels configuration file
+material: 'GUNPOWDER'
+burn-time: 30
+---
+material: 'PUMPKIN_SEEDS'
+burn-time: 900000

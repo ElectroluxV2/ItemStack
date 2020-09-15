@@ -1,0 +1,13 @@
+# Furnace recipes configuration file
+source: 'glass'
+receipt-for: 'simple_wood'
+cooking-time: 50
+experience: 4000
+description: 'Simple wood gain from glass'
+
+---
+source: 'flint'
+receipt-for: 'wood_2'
+cooking-time: 1
+experience: 0
+description: 'gain wood 2 from flint'

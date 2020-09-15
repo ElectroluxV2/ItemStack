@@ -1,0 +1,25 @@
+# Main configuration file
+# Enable shaped recipes
+shaped-recipes-enable: true
+
+# Enable shapeless recipes
+shapeless-recipes-enable: true
+
+# Enable furnace recipes
+furnace-recipes-enable: true
+
+# Enable more fuels
+more-fuels-enable: true
+
+# Use colors in console
+console-colors: false
+
+# Select debug mode [NONE, PARTIAL, FULL, EXTREME]
+debug-level: "PARTIAL"
+
+
+
+ 
+  
+
+

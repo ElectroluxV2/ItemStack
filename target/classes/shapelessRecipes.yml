@@ -1,0 +1,12 @@
+# Shaped recipes configuration file
+receipt-for: "simple_wood"
+ingredients: ['DIRT', 'SAND']
+description: 'Simple wood shapeless'
+---
+receipt-for: "unbreakable_sword"
+ingredients: ['DIRT', 'DIRT']
+description: 'Players wont see this'
+
+
+
+

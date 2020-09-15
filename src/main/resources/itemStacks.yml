@@ -1,0 +1,18 @@
+# Item stacks configuration file
+name: "simple_wood"
+material: "acacia_log"
+amount: 124
+---
+name: "wood_2"
+material: "acacia_wood"
+amount: 5
+durability: 1
+unbreakable: false
+display-name: "&aColored Name!"
+lore: ['&aUsing ', '&cLore']
+---
+name: "unbreakable_sword"
+material: "diamond_sword"
+amount: 2
+unbreakable: true
+enchantments: [ ['looting', 90], ['fire_aspect', 12] ]

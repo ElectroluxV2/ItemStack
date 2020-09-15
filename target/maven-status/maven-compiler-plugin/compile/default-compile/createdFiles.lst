@@ -1,0 +1,16 @@
+pl/mate/itemstack/recipes/ItemStacks$MyItemStack.class
+pl/mate/itemstack/recipes/ItemStacks.class
+pl/mate/itemstack/settings/Settings$DebugLevel.class
+pl/mate/itemstack/MainPlugin.class
+pl/mate/itemstack/settings/Settings.class
+pl/mate/itemstack/recipes/FurnaceRecipes.class
+pl/mate/itemstack/logger/CustomLogger.class
+pl/mate/itemstack/recipes/ShapelessRecipes.class
+pl/mate/itemstack/commands/Reload.class
+pl/mate/itemstack/events/PrepareItemCraftE.class
+pl/mate/itemstack/events/InventoryClickE.class
+pl/mate/itemstack/logger/ConsoleColors.class
+pl/mate/itemstack/settings/FileManager.class
+pl/mate/itemstack/events/FurnaceBurnE.class
+pl/mate/itemstack/recipes/ShapedRecipes.class
+pl/mate/itemstack/recipes/Fuels.class

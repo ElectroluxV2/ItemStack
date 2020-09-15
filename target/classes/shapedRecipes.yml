@@ -1,0 +1,10 @@
+# Shaped recipes configuration file
+receipt-for: "unbreakable_sword"
+shape: ['aaa', 'bbb', 'ccc']
+ingredients: [ ['a', 'DIRT'], ['b', 'SAND'], ['c', 'AIR'] ]
+description: 'Unbreakable sword gain from crafting'
+---
+receipt-for: "wood_2"
+shape: ['aaa', 'aaa', 'aaa']
+ingredients: [ ['a', 'DIRT'] ]
+description: 'wood #2 gain from crafting'
